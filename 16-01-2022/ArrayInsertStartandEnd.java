@@ -42,3 +42,8 @@ public class Main
 //Time complexity-O(n)
 //input- size=3 values= 1 2 3 
 //output- 1 2 3
+//input- value at begening- 0 
+//output- 0 1 2 3
+//input-value at end 4
+//output- 0 1 2 3 4
+//length- 5

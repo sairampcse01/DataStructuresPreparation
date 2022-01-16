@@ -17,5 +17,7 @@ public class Main
 		
 	}
 }
+//input- size=3 values= 1 2 3 
+//output- 1 2 3
 //space complexity-O(n)
 //time complexity-O(n)
